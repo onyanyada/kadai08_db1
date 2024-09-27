@@ -12,12 +12,9 @@ https://studiohub.sakura.ne.jp/kadai2/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- 管理者権限
-- ID：test1、PASS：test1
-- 一般権限
-- test3、test3
-- 権限を失った人(退職者)
-- test2、test2
+- 管理者権限→ID：test1、PASS：test1
+- 一般権限→ID：test3、PASS：test3
+- 権限を失った人(退職者)→ID：test2、PASS：test2
 
 ## ⑤工夫した点・こだわった点
 - 管理者権限、一般権限、誰でもできることを分けたこと
