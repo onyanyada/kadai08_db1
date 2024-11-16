@@ -7,8 +7,10 @@
 ユーザーから集めたアンケートを3つの権限に分けて更新削除できるアンケート管理アプリ
 
 ## ③DEMO
-
+- アンケート画面
 https://studiohub.sakura.ne.jp/kadai2/
+- ログイン
+https://studiohub.sakura.ne.jp/kadai2/login.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
